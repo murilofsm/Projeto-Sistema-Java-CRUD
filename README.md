@@ -1,5 +1,3 @@
-# ProjetoSistemaJava
-
 Projeto que estou fazendo, ainda não está pronto.
 
 Ele utiliza Java e SQL, a ideia é fazer esse projeto para apreender a controlar dados utilizando java e sql, realizando diversas funcionalidades.
